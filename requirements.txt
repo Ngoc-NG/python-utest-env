@@ -7,3 +7,5 @@ coverage==4.3.4
 sphinx==1.5.5
 autopep8==1.3.1
 pytest==3.0.7
+pep8==1.7.0
+pepper8==1.1.1
